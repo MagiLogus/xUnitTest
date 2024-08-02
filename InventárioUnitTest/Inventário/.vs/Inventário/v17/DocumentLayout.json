@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF84039-E5C5-47F6-8CB5-492C1BC4CC79}|..\\Invent\u00E1rio.Test\\Invent\u00E1rio.Test.csproj|c:\\users\\33984578865\\desktop\\xunittest\\invent\u00E1riounittest\\invent\u00E1rio.test\\obterquantidadeprodutounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF84039-E5C5-47F6-8CB5-492C1BC4CC79}|..\\Invent\u00E1rio.Test\\Invent\u00E1rio.Test.csproj|c:\\users\\33984578865\\desktop\\xunittest\\invent\u00E1riounittest\\invent\u00E1rio.test\\adicionarprodutounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF84039-E5C5-47F6-8CB5-492C1BC4CC79}|..\\Invent\u00E1rio.Test\\Invent\u00E1rio.Test.csproj|c:\\users\\33984578865\\desktop\\xunittest\\invent\u00E1riounittest\\invent\u00E1rio.test\\invent\u00E1rio.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD78C063-6C01-43B1-95D7-9056EDA33758}|Invent\u00E1rio.csproj|c:\\users\\33984578865\\desktop\\xunittest\\invent\u00E1riounittest\\invent\u00E1rio\\invent\u00E1rio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD78C063-6C01-43B1-95D7-9056EDA33758}|Invent\u00E1rio.csproj|solutionrelative:invent\u00E1rio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD78C063-6C01-43B1-95D7-9056EDA33758}|Invent\u00E1rio.csproj|c:\\users\\33984578865\\desktop\\xunittest\\invent\u00E1riounittest\\invent\u00E1rio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD78C063-6C01-43B1-95D7-9056EDA33758}|Invent\u00E1rio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObterQuantidadeProdutoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio.Test\\ObterQuantidadeProdutoUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\Invent\u00E1rio.Test\\ObterQuantidadeProdutoUnitTest.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio.Test\\ObterQuantidadeProdutoUnitTest.cs",
+              "RelativeToolTip": "..\\Invent\u00E1rio.Test\\ObterQuantidadeProdutoUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:44:17.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invent\u00E1rio.Test",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio.Test\\Invent\u00E1rio.Test.csproj",
+              "RelativeDocumentMoniker": "..\\Invent\u00E1rio.Test\\Invent\u00E1rio.Test.csproj",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio.Test\\Invent\u00E1rio.Test.csproj",
+              "RelativeToolTip": "..\\Invent\u00E1rio.Test\\Invent\u00E1rio.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T11:43:26.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdicionarProdutoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio.Test\\AdicionarProdutoUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\Invent\u00E1rio.Test\\AdicionarProdutoUnitTest.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio.Test\\AdicionarProdutoUnitTest.cs",
+              "RelativeToolTip": "..\\Invent\u00E1rio.Test\\AdicionarProdutoUnitTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:43:34.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invent\u00E1rio.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio\\Invent\u00E1rio.cs",
+              "RelativeDocumentMoniker": "Invent\u00E1rio.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio\\Invent\u00E1rio.cs",
+              "RelativeToolTip": "Invent\u00E1rio.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:41:51.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\Invent\u00E1rioUnitTest\\Invent\u00E1rio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:13:32.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

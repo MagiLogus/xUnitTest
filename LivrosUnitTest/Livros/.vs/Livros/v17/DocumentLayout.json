@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA60276-C663-4E44-AAE2-70B588B22CC7}|..\\Livros.Test\\Livros.Test.csproj|c:\\users\\33984578865\\desktop\\xunittest\\livrosunittest\\livros.test\\obterlivrosunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA60276-C663-4E44-AAE2-70B588B22CC7}|..\\Livros.Test\\Livros.Test.csproj|c:\\users\\33984578865\\desktop\\xunittest\\livrosunittest\\livros.test\\livros.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA60276-C663-4E44-AAE2-70B588B22CC7}|..\\Livros.Test\\Livros.Test.csproj|c:\\users\\33984578865\\desktop\\xunittest\\livrosunittest\\livros.test\\adicionarlivrounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D60D5-B6CC-4000-A655-A95C3699B5F7}|Livros.csproj|c:\\users\\33984578865\\desktop\\xunittest\\livrosunittest\\livros\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6D60D5-B6CC-4000-A655-A95C3699B5F7}|Livros.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D60D5-B6CC-4000-A655-A95C3699B5F7}|Livros.csproj|c:\\users\\33984578865\\desktop\\xunittest\\livrosunittest\\livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6D60D5-B6CC-4000-A655-A95C3699B5F7}|Livros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObterLivrosUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros.Test\\ObterLivrosUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\Livros.Test\\ObterLivrosUnitTest.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros.Test\\ObterLivrosUnitTest.cs",
+              "RelativeToolTip": "..\\Livros.Test\\ObterLivrosUnitTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:25:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livros.Test",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros.Test\\Livros.Test.csproj",
+              "RelativeDocumentMoniker": "..\\Livros.Test\\Livros.Test.csproj",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros.Test\\Livros.Test.csproj",
+              "RelativeToolTip": "..\\Livros.Test\\Livros.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T11:24:23.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdicionarLivroUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros.Test\\AdicionarLivroUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\Livros.Test\\AdicionarLivroUnitTest.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros.Test\\AdicionarLivroUnitTest.cs",
+              "RelativeToolTip": "..\\Livros.Test\\AdicionarLivroUnitTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:23:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:22:41.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\LivrosUnitTest\\Livros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:04:51.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

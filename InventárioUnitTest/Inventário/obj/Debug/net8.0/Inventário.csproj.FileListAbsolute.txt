@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\bin\Debug\net8.0\Inventário.exe
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\bin\Debug\net8.0\Inventário.deps.json
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\bin\Debug\net8.0\Inventário.runtimeconfig.json
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\bin\Debug\net8.0\Inventário.dll
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\bin\Debug\net8.0\Inventário.pdb
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.sourcelink.json
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.dll
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\refint\Inventário.dll
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.pdb
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\Inventário.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\xUnitTest\InventárioUnitTest\Inventário\obj\Debug\net8.0\ref\Inventário.dll

@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\bin\Debug\net8.0\Temperatura.exe
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\bin\Debug\net8.0\Temperatura.deps.json
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\bin\Debug\net8.0\Temperatura.runtimeconfig.json
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\bin\Debug\net8.0\Temperatura.dll
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\bin\Debug\net8.0\Temperatura.pdb
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.sourcelink.json
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.dll
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\refint\Temperatura.dll
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.pdb
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\Temperatura.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\xUnitTest\TemperaturaUnitTest\Temperatura\obj\Debug\net8.0\ref\Temperatura.dll
