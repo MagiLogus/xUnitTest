@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj": {}
+    "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj": {
+    "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj",
         "projectName": "Temperatura.Test",
-        "projectPath": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj",
-        "packagesPath": "C:\\Users\\33984578865\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\obj\\",
+        "projectPath": "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\Temperatura.Test.csproj",
+        "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\33984578865\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj": {
-                "projectPath": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj"
+              "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj": {
+                "projectPath": "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj"
               }
             }
           }
@@ -39,34 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.5.3, )"
-            },
-            "xunit.runner.visualstudio": {
-              "target": "Package",
-              "version": "[2.5.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -78,26 +54,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj": {
+    "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj",
         "projectName": "Temperatura",
-        "projectPath": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj",
-        "packagesPath": "C:\\Users\\33984578865\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\33984578865\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\obj\\",
+        "projectPath": "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\Temperatura.csproj",
+        "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paulo\\Desktop\\xUnitTest\\TemperaturaUnitTest\\Temperatura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\33984578865\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,7 +76,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -118,11 +88,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -139,12 +104,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
